@@ -1,0 +1,34 @@
+package com.sulake.habbo.help.enum
+{
+   public class HabboHelpViewEnum
+   {
+      
+      public static const const_144:String = "HHVE_HELP_FRONTPAGE";
+      
+      public static const const_358:String = "HHVE_FAQ_TOP";
+      
+      public static const const_241:String = "HHVE_FAQ_CATEGORY";
+      
+      public static const const_518:String = "HHVE_FAQ_SEARCH";
+      
+      public static const const_584:String = "HHVE_CFH_TEXT_INPUT";
+      
+      public static const const_1258:String = "HVVE_PH";
+      
+      public static const const_309:String = "HHVE_CFG_TOPIC_SELECT";
+      
+      public static const const_516:String = "HHVE_REPORT_USER_SELECT";
+      
+      public static const CALL_FOR_HELP_PENDING_ITEM:String = "HHVE_CFH_PENDING";
+      
+      public static const const_181:String = "HHVE_CFH_SENT_OK";
+      
+      public static const const_205:String = "HHVE_FAQ_TOPICS";
+       
+      
+      public function HabboHelpViewEnum()
+      {
+         super();
+      }
+   }
+}
